@@ -1,0 +1,109 @@
+* {margin: 0; padding: 0}
+
+body {
+  background: #e2e2e2;
+  height: 5000px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@300&family=Roboto&family=Roboto+Mono:wght@300&display=swap');
+
+.top {
+  background-color: #959595;
+  height: 70px;
+  width: 100%;
+  border-bottom: 2px solid #000000;
+}
+
+.logo {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+    line-height: 70px;
+    margin-left: 20px;
+    float: left;
+    font-size: 40px;
+}
+
+.int {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  display: inline;
+  text-align: center;
+  font-size: 25px;
+  margin-left: 15px;
+  background-color: ##b4b4b4;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #000000;
+  float:left;
+  height: 25px;
+  line-height: 25px;
+  margin-top: 22px;
+  position: relative;
+  left: 50px;
+  border: 2px solid #000000;
+  padding: 1px;
+}
+
+.int:hover {
+  color: #d1d1d1;
+  background-color: #252525;
+}
+
+.h1 {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  margin: 10px;
+
+}
+
+.p1 {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 25px;
+}
+
+.button {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  background: #116ecf;
+  height: 70px;
+  width: 46.25%;
+  display: block;
+  text-align: center;
+  margin-left: 2.5%;
+  border-radius: 10px;
+  text-decoration:none;
+  color: #fff;
+  font-size: 40px;
+  line-height: 70px;
+  margin-top: 10px;
+  font-weight:bold;
+  float: left;
+}
+
+.buttonn {
+  font-family: 'Kalnia', serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  background: #116ecf;
+  height: 70px;
+  width: 46.25%;
+  display: block;
+  text-align: center;
+  margin-left: 2.5%;
+  border-radius: 10px;
+  text-decoration:none;
+  color: #fff;
+  font-size: 40px;
+  line-height: 70px;
+  margin-top: 10px;
+  font-weight:bold;
+  float: left;
+}
